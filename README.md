@@ -1,8 +1,3 @@
-# Apress Source Code
-
-This repository accompanies [*Practical Rails Projects*](http://www.apress.com/9781590597811) by Eldon Alameda (Apress, 2007).
-
-![Cover image](9781590597811.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
